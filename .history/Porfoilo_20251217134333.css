@@ -666,6 +666,11 @@ body {
  border-color: #DC2626;
 }
 
+.skill-text img {
+  width: 130px;
+  height: auto;
+  margin-bottom: 30px;
+}
 
 .main-porfolio .skills-text {
   flex-direction: column;
